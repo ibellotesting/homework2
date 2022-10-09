@@ -25,11 +25,13 @@ A teszteket egy új jellemző (feature) fájlba írd, a "features" mappán belü
 
 Azt, hogy pontosan milyen és mennyi tesztet írsz, te döntöd el.
 
-A feladattal több szempontból is képet szeretnénk kapni a tudásodról. Vagyis fel szeretnénk mérni, hogy:
+A feladattal több szempontból is képet szeretnénk kapni a tudásodról és a képességeidről. Vagyis fel szeretnénk mérni, hogy:
 
+- Képes vagy-e különféle eszközök használatára a leírásuk birtokában?
 - Fel tudod-e mérni felfedező teszteléssel egy dokumentálatlan funkció követelményeit?
 - Meg tudod-e találni a teljes funkció ellenőrzéséhez szükséges minimális számú tesztesetet?
-- Meg tudod-e fogalmazni úgy a teszteket, hogy azok érthetőek és jól fókuszáltak legyenek?
+- Meg tudod-e fogalmazni úgy a teszteket, hogy azok érthetőek és fókuszáltak legyenek?
+- Ismered-e a gherkin formátumot, vagy el tudod-e sajátítani a használatát?
 
 Példaként már írtunk pár tesztet a bejelentkezésről. Ezek a "login.feature" fájlban vannnak - a "features" mappában.
 
