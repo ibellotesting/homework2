@@ -10,7 +10,7 @@ A megoldásban ezek az ismeretek lesznek segítségedre:
 
 - gherkin alapismeretek ([gherkin szintaxis](https://cucumber.io/docs/gherkin/)),
 - gherkin forgatókönyvek ([jobb gherkin írása](https://cucumber.io/docs/bdd/better-gherkin/)),
-- BRIEF szabályok ([BRIEF](https://cucumber.io/blog/bdd/keep-your-scenarios-brief/)).
+- BDD forgatókönyvek írásának javasolt szabályai ([BRIEF](https://cucumber.io/blog/bdd/keep-your-scenarios-brief/)).
 
 Klónozd a saját gépedre a [homework2](https://github.com/ibellotesting/homework2) repót,
 ([how to clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)),
